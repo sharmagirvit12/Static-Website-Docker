@@ -1,0 +1,102 @@
+/* Modern & Professional CSS for DevOps Portfolio */
+
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+  color: #333;
+  line-height: 1.8;
+}
+
+header {
+  background: linear-gradient(90deg, #4a4e69, #22223b);
+  color: white;
+  text-align: center;
+  padding: 40px 20px;
+  font-size: 2em;
+  font-weight: bold;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2.5em;
+  letter-spacing: 1px;
+  color: black;
+}
+
+header p {
+  font-size: 1.1em;
+  margin-top: 10px;
+  font-weight: 300;
+  color: #d3d3d3;
+}
+
+section {
+  width: 75%;
+  margin: 40px auto;
+  padding: 30px;
+  background: white;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+  transition: transform 0.3s ease-in-out;
+}
+
+section:hover {
+  transform: translateY(-5px);
+}
+
+h1,
+h2,
+h3 {
+  color: #22223b;
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  background: #f2e9e4;
+  margin: 10px 0;
+  padding: 14px;
+  border-radius: 8px;
+  font-size: 1.2em;
+  font-weight: 500;
+}
+
+project {
+  border-left: 6px solid #9a8c98;
+  padding-left: 18px;
+  margin-bottom: 25px;
+  background: #eae4e9;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background: linear-gradient(90deg, #4a4e69, #22223b);
+  color: white;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-top: 40px;
+}
+
+/* Contact Section */
+#contact a {
+  color: #22223b;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 1.2em;
+}
+
+#contact a:hover {
+  text-decoration: underline;
+  color: #9a8c98;
+}
+3
