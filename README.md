@@ -37,5 +37,27 @@ This project demonstrates a **CI/CD pipeline** for deploying a Flask application
 4. **Run the Container**
    - The Docker container is started and Flask app runs inside it.
 
+## 📸 Project Execution Screenshots
+
+### 1. App Build
+![App](Screenshots/app.py.png.png)
+
+### 2. Index.htm
+![Index](Screenshots/index.htm.png.png)
+
+### 3. Style.css
+![Style](Screenshots/style.css.png.png)
+
+### 4. Dockerfile 
+![Dockerfile](Screenshots/Dockerfile.png.png)
+
+### 5. Docker container
+![Container](Screenshots/docker_container.png.jpg.png)
+
+### 6. Docker images
+![images](Screenshots/docker_images.png.jpg.png)
+
+### 7. Running on chrome
+![Chrome](Screenshots/run_on_chrome.png.png)
 
   
