@@ -1,2 +1,2 @@
 # Static-Website-Docker
-This project is based on Static-website deploy on container based docker
+Automated the deployment of a static website on a Docker container using a Jenkins CI/CD pipeline.
