@@ -42,22 +42,22 @@ This project demonstrates a **CI/CD pipeline** for deploying a Flask application
 ## 📸 Project Screenshots and Workflow
 
 ### 1. App Build (app.py)
-![App](Screenshots/app.png)
+![App](Screenshots/app.py.png)
 
 ### 2. index.html
-![Index](Screenshots/index.png)
+![Index](Screenshots/index.htm.png)
 
 ### 3. style.css
-![Style](Screenshots/style.png)
+![Style](Screenshots/style.css.png)
 
 ### 4. Dockerfile
-![Dockerfile](Screenshots/dockerfile.png)
+![Dockerfile](Screenshots/Dockerfile.jpg)
 
 ### 5. Docker Container Running
-![Container](Screenshots/docker_container.jpg)
+![Container](Screenshots/docker_container.png.jpg)
 
 ### 6. Docker Images
-![Images](Screenshots/docker_images.jpg)
+![Images](Screenshots/Docker_images.jpg)
 
 ### 7. Application Running in Chrome
 ![Chrome](Screenshots/run_on_chrome.png)
